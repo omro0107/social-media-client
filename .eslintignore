@@ -1,0 +1,4 @@
+__tests__/*.test.js
+cypress/.js
+cypress/.json
+cypress.config.js
